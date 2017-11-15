@@ -1,0 +1,11 @@
+#ShortURL button {
+	width:150px;
+	height:20px;
+	margin-top:10px;
+}
+
+#ShortURL input {
+	width:600px;
+	height:20px;
+	margin-top:5px;
+}
